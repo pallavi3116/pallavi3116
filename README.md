@@ -1,7 +1,3 @@
-<a href="https://www.linkedin.com/in/pallavi-singh-aaa5952b1">
-  <img src="https://img.shields.io/badge/LinkedIn-Pallavi%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 <div align="center">
 
 # PALLAVI SINGH
@@ -13,6 +9,10 @@
 📍 Pune, India
 
 [![Email](https://img.shields.io/badge/EMAIL-pallaviom3103%40gmail.com-purple?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallaviom3103@gmail.com)
+
+<a href="https://www.linkedin.com/in/pallavi-singh-aaa5952b1">
+  <img src="https://img.shields.io/badge/LinkedIn-Pallavi%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
