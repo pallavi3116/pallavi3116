@@ -1,18 +1,18 @@
 <div align="center">
 
-# PALLAVI SINGH
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&gradientColor=1D4ED8&height=220&section=header&text=PALLAVI%20SINGH&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Enthusiast%20%7C%20Aspiring%20Penetration%20Tester&descAlignY=62&descSize=18&descColor=E0F2FE" width="100%" />
 
-### 🛡️ Cyber Security Enthusiast | Aspiring Penetration Tester
+<br>
 
-**MCA — Cyber Security & Digital Forensics**
+[![MCA](https://img.shields.io/badge/MCA-CYBER%20SECURITY%20%26%20DIGITAL%20FORENSICS-1D4ED8?style=for-the-badge&logo=academia&logoColor=white)](#)
+[![BBA](https://img.shields.io/badge/BBA-COMPUTER%20APPLICATIONS-2563EB?style=for-the-badge&logo=bookstack&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/PUNE-MAHARASHTRA-0284C7?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-📍 Pune, India
+<br>
 
-[![Email](https://img.shields.io/badge/EMAIL-pallaviom3103%40gmail.com-purple?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallaviom3103@gmail.com)
-
-<a href="https://www.linkedin.com/in/pallavi-singh-aaa5952b1">
-  <img src="https://img.shields.io/badge/LinkedIn-Pallavi%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallaviom3103@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavi-singh-aaa5952b1)
+[![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pallavi3116)
 
 </div>
 
