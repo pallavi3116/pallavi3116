@@ -180,8 +180,6 @@ Microsoft
                        │
                 CONTINUOUS LEARNING
 ```
----
-
 # 09 // CONTRIBUTION SNAKE
 
 <div align="center">
