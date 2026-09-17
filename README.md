@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 PALLAVI SINGH
+#  PALLAVI SINGH
 
 ### 🛡️ Cyber Security Enthusiast | Aspiring Penetration Tester
 
