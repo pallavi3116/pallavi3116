@@ -1,3 +1,7 @@
+<a href="https://www.linkedin.com/in/pallavi-singh-aaa5952b1">
+  <img src="https://img.shields.io/badge/LinkedIn-Pallavi%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 <div align="center">
 
 # PALLAVI SINGH
